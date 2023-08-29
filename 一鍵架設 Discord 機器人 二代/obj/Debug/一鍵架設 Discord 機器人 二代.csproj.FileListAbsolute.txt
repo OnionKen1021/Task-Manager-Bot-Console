@@ -1,0 +1,30 @@
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\bin\Debug\一鍵架設 Discord 機器人 二代.exe.config
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\bin\Debug\一鍵架設 Discord 機器人 二代.exe
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\bin\Debug\一鍵架設 Discord 機器人 二代.pdb
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\bin\Debug\Guna.UI2.dll
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設 Discord 機器人 二代.csproj.AssemblyReference.cache
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設 Discord 機器人 二代.csproj.SuggestedBindingRedirects.cache
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.Properties.Resources.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設 Discord 機器人 二代.csproj.GenerateResource.cache
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設 Discord 機器人 二代.csproj.CoreCompileInputs.cache
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設 Discord 機器人 二代.csproj.CopyComplete
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設 Discord 機器人 二代.exe
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設 Discord 機器人 二代.pdb
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.form.Form1.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.main.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.form.Form2.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.form.Form3.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.form.Form4.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.form.writebat.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.form.writetoken.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.form.Form7.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.form.license.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.form.loading.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.form.Form8.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.tips.botrunning.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.tips.loadthread.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.tips.botsuccess.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.tips.botdeny.resources
+C:\Users\wlk26\Downloads\一鍵架設 Discord 機器人 二代\obj\Debug\一鍵架設_Discord_機器人_二代.form.settings.resources
