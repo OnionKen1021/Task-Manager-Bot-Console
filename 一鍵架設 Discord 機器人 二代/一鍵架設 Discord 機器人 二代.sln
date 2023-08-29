@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "一鍵架設 Discord 機器人 二代", "一鍵架設 Discord 機器人 二代.csproj", "{F98686D1-0BBB-437C-A3D5-B18BCD50D730}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{8389972F-68F1-44CC-A6ED-794E932553E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98686D1-0BBB-437C-A3D5-B18BCD50D730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98686D1-0BBB-437C-A3D5-B18BCD50D730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98686D1-0BBB-437C-A3D5-B18BCD50D730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98686D1-0BBB-437C-A3D5-B18BCD50D730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8389972F-68F1-44CC-A6ED-794E932553E4}.Debug|Any CPU.ActiveCfg = Debug
+		{8389972F-68F1-44CC-A6ED-794E932553E4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79265B71-B633-4F6E-9DD9-4CF84420A88C}
+	EndGlobalSection
+EndGlobal
