@@ -11,8 +11,8 @@ guna2.Winform & 舊版 PC Tools UI
 安裝 setup 檔案 -> 依照邏輯進行使用
 
 # 預覽圖
-<a href="[link address](https://media.discordapp.net/attachments/1142414389920669756/1145713353973571625/image.png?width=1193&height=671)https://media.discordapp.net/attachments/1142414389920669756/1145713353973571625/image.png?width=1193&height=671"><img src="e"></a>
-<a href="https://media.discordapp.net/attachments/1142414389920669756/1145713354791473173/image.png?width=1193&height=671"><img src="e"></a>
-<a href="https://media.discordapp.net/attachments/1142414389920669756/1145713355445780592/image.png?width=1193&height=671"><img src="e"></a>
-<a href="https://media.discordapp.net/attachments/1142414389920669756/1145713356066529382/image.png?width=1135&height=671"><img src="e"></a>
+https://media.discordapp.net/attachments/1142414389920669756/1145713353973571625/image.png?width=1193&height=671)
+https://media.discordapp.net/attachments/1142414389920669756/1145713354791473173/image.png?width=1193&height=671">
+https://media.discordapp.net/attachments/1142414389920669756/1145713355445780592/image.png?width=1193&height=671">
+https://media.discordapp.net/attachments/1142414389920669756/1145713356066529382/image.png?width=1135&height=671
 
